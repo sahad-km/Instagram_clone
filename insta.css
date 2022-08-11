@@ -1,0 +1,196 @@
+.left-section{
+    background-color: #f9f9f9;
+    width: 50%;
+    height: 660px;
+    float: left;
+}
+.right-section{
+    background-color: #f9f9f9;
+    width: 50%;
+    height: 660px;
+    float: left;
+}
+.name{
+    background-color: white;
+    width: 350px;
+    height: 410px;
+    margin-top: 40px;
+    border-radius: 1px;
+    border: 1px solid #dbdbdb;
+}
+.instagram{
+    width: 240px;
+    height: 130px;
+    margin-top: 1px;
+    margin-left: 50px;
+}
+.dom{
+    width: 250px;
+    height: 30px;
+    margin-left: 40px;
+}
+.com{
+    width: 250px;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.button{
+    width: 250px;
+    height: 35px;
+    background-color: rgb(78, 131, 243);
+    margin-left: 45px;
+    margin-top: 13px;
+    border-radius: 5px;
+    border-color: white;
+}
+.button:hover{
+    background-color: rgb(170, 146, 255);
+}
+.login{
+    color: white;
+    margin-top: 3px;
+    font-weight: bold;
+}
+.line{
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 1px;
+    width: 100px;
+    background-color: #dbdbdb;
+    float: left;
+}
+.line2{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 1px;
+    width: 100px;
+    background-color: #dbdbdb;
+    float: left;
+}
+.or{
+    color: #9b9393;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    float: left;
+
+}
+.link{
+    float: left;
+    color: rgb(80, 80, 247);
+    margin-left: 80px;
+    text-decoration: none;
+    text-align: center;
+}
+.forpass{
+    text-decoration: none;
+    float: left;
+    margin-top: 5px;
+    margin-left: 130px;
+}
+.forpa{
+    font-size: small;
+    color:#00376b ;
+}
+.signup{
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 1px;
+    border: 1px solid #dbdbdb;
+}
+.account{
+    margin-bottom: 20px;
+    margin-left: 80px;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.sign{
+    text-decoration: none;
+    float: left;
+    margin-top: 13px;
+    color: rgb(92, 92, 243);
+}
+.getapp{
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo1{
+    width: 130px;
+    height: 40px;
+    margin-left: 40px;
+}
+.logo2{
+    width: 130px;
+    height: 40px;
+}
+.pic{
+    width: 400px;
+    height: 592px;
+    margin-left: 267px;
+    margin-top: 11px;
+}
+.frow{
+    float: left;
+    margin-left: 20px;
+}
+.row1{
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: #f9f9f9;
+}
+.para1{
+    font-size: smaller;
+    color: #9b9393;
+}
+.para{
+    margin-left: 175px;
+    font-size: smaller;
+    color: #9b9393;
+}
+.relink{
+    text-decoration: none;
+}
+.row2{
+    width: 100%;
+    height: 35px;
+    background-color: #f9f9f9;
+    float: left;
+}
+.para3{
+    margin-left: 470px;
+    font-size: smaller;
+    color: #9b9393;
+}
+.row3{
+    float: left;
+    width: 100%;
+    height: 35px;
+    background-color: #f9f9f9;
+}
+.option{
+    border-color: #f9f9f9;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    color: #9b9393;
+    margin-left: 540px;
+    float: left;
+}
+.lastline{
+    font-size: smaller;
+    color: #9b9393;
+    margin-top: 3px;
+}
+.last{
+    float: left;
+}
